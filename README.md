@@ -75,7 +75,7 @@ npm run dev
 
 5. Load the control panel with registered device Id by entering device Id and click on arrow button.
 
-![usage_screen](https://github.com/ShivamAgarwal-code/Raspi-Connect/assets/29351207/78e0995b-e591-4278-8c0c-f6746cf54163)
+![usage_screen](https://github.com/Salmandabbakuti/depin-bnb-hack/assets/29351207/78e0995b-e591-4278-8c0c-f6746cf54163)
 
 #### 3. Setup Contract Event Listener and Rasp Pi GPIO Simulator
 
@@ -95,7 +95,7 @@ python listener.py
 
 3. Enter the registered device Id in previous step when prompted.
 
-![listener_prompt](https://github.com/ShivamAgarwal-code/Raspi-Connect/assets/29351207/d67ab995-0ceb-4c37-9a76-db3d6473bce3)
+![listener_prompt](https://github.com/Salmandabbakuti/depin-bnb-hack/assets/29351207/d67ab995-0ceb-4c37-9a76-db3d6473bce3)
 
 ## Usage
 
@@ -109,9 +109,9 @@ python listener.py
 
 5. The event listener will listen for choosen device events in the contract and simulate/update the GPIO pins on the Raspberry Pi.
 
-![usage_screen](https://github.com/ShivamAgarwal-code/Raspi-Connect/assets/29351207/78e0995b-e591-4278-8c0c-f6746cf54163)
+![usage_screen](https://github.com/Salmandabbakuti/depin-bnb-hack/assets/29351207/78e0995b-e591-4278-8c0c-f6746cf54163)
 
-![listener_prompt](https://github.com/ShivamAgarwal-code/Raspi-Connect/assets/29351207/d67ab995-0ceb-4c37-9a76-db3d6473bce3)
+![listener_prompt](https://github.com/Salmandabbakuti/depin-bnb-hack/assets/29351207/d67ab995-0ceb-4c37-9a76-db3d6473bce3)
 
 
 ## Built With
