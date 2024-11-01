@@ -111,7 +111,7 @@ python listener.py
 
 ![usage_screen](https://github.com/Salmandabbakuti/depin-bnb-hack/assets/29351207/78e0995b-e591-4278-8c0c-f6746cf54163)
 
-![listener_prompt](https://github.com/Salmandabbakuti/depin-bnb-hack/assets/29351207/d67ab995-0ceb-4c37-9a76-db3d6473bce3)
+
 
 
 ## Built With
