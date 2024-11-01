@@ -8,6 +8,7 @@ contract PinController {
         Off,
         On
     }
+// These are the PIN status
 
     struct Device {
         uint256 id;
