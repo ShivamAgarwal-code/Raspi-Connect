@@ -6,7 +6,7 @@ DePIN Raspi Connect leverages the power of Raspberry Pi's GPIO pins to control h
 
 ### Architecture
 
-![Untitled Diagram drawio (1)](https://github.com/ShivamAgarwal-code/Raspi-Connect/assets/29351207/7e1e5b3c-6a84-434b-9b17-cfbe6aaacdc4)
+![Untitled Diagram drawio (1)](https://github.com/Salmandabbakuti/depin-bnb-hack/assets/29351207/7e1e5b3c-6a84-434b-9b17-cfbe6aaacdc4)
 
 ## Getting Started
 
